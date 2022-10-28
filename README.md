@@ -5,4 +5,4 @@ Frontend Mentor's [QR code composition](https://www.frontendmentor.io/challenges
 #### Main goal:
 - Build a QR code composition that looks like this:
 
-![QR-comp-FEM-preview](./FEM-QR-code-comp/FEM-files/design/desktop-preview.jpg)
+![QR-comp-FEM-preview](./FEM-files/design/desktop-preview.jpg)
