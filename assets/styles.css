@@ -36,6 +36,14 @@ body {
   border-radius: 20px;
 }
 
+.hidden-title {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  font-size: 1px;
+  color: transparent;
+}
+
 .qr-code {
   width: 290px;
   height: 290px;
