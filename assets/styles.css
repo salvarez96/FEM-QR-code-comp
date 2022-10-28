@@ -20,4 +20,5 @@ html {
 body {
   font-size: 16rem;
   font-family: 'Outfit', sans-serif;
+  background-color: var(--white-gray);
 }
